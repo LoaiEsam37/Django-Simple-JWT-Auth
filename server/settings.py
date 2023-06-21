@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-h8jl^*0p1_zt_cx-2-f*7l%o33as@z8p909$f%ajpr(w7$*v0t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-simple-jwt-auth-production.up.railway.app"]
 
 
 # Application definition
